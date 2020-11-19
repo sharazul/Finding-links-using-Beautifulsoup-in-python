@@ -1,2 +1,0 @@
-# Finding-links-using-Beautifulsoup-in-python
-# HERE IS THE CODE FOR SERACHING ANY NUMBER OF LINKS FROM WEB PAGES THOURGH PYTHON 
